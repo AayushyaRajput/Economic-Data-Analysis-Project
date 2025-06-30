@@ -13,10 +13,10 @@ This project analyzes the economic affordability of countries using key indexes 
 📈 Discovered that Groceries and Rent Index have the highest influence on the Cost of Living
 
 ### 🧰 Tools & Libraries
-Python
-pandas for data handling
-matplotlib & seaborn for visualization
-scikit-learn for predictive modeling and regression
+- Python
+- pandas for data handling
+- matplotlib & seaborn for visualization
+- scikit-learn for predictive modeling and regression
 
 ### 🧾 Conclusion
 Some countries (like Switzerland) have high living costs but also strong purchasing power. Others (like India or Pakistan) offer low costs with decent local value. This project demonstrates how simple statistical and visual analysis can uncover meaningful insights about global economic trends.
